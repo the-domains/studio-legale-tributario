@@ -1,4 +1,3 @@
-layout_spectrum: 0.41508813900873065
 typography_spectrum: 0.16129737137816846
 color:
   brandStrength: 0.0899724611081183
@@ -11,4 +10,9 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.41508813900873065
+author:
+  name: RCCCCCCC
+  email: sfsd@dsdfs.to
 name: Studio Legale Tributario
+title: Gallarate
