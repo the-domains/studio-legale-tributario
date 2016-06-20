@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Studio Legale Tributario]]></title>
-        <description><![CDATA[Studio Legale Tributario]]></description>
+        <title><![CDATA[Gallarate]]></title>
+        <description><![CDATA[Gallarate]]></description>
         <link>https://thegrid.ai/studio-legale-tributario/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 21:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 21:20:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studio-legale-tributario/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39007ae3-4df2-4bb0-88f7-8c57a82d0918.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1d12e4-cd0c-4676-86a2-5678d04a12ed.jpg</link>
+            <guid isPermaLink="false">5fd38f95-72f7-4625-a05d-a1b91834d53d</guid>
+            <pubDate>Mon, 20 Jun 2016 21:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08dcc7ab-45bf-4517-91cd-29ee4b1cc688.jpg" alt="Sonia Sotomayor">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/08dcc7ab-45bf-4517-91cd-29ee4b1cc688.jpg</link>
             <guid isPermaLink="false">9c4decd7-b2d7-40da-b42f-cfa9b694d8d2</guid>
             <pubDate>Mon, 20 Jun 2016 21:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39007ae3-4df2-4bb0-88f7-8c57a82d0918.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1d12e4-cd0c-4676-86a2-5678d04a12ed.jpg</link>
-            <guid isPermaLink="false">5fd38f95-72f7-4625-a05d-a1b91834d53d</guid>
-            <pubDate>Mon, 20 Jun 2016 21:06:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
